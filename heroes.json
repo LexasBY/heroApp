@@ -7,16 +7,16 @@
       "element": "wind"
     },
     {
-      "id": 3,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
-      "element": "water"
+      "id": "b94690c9-d0f3-4e61-a159-e3cb40dddfb2",
+      "name": "231",
+      "description": "13424",
+      "element": "fire"
     },
     {
-      "id": "d51191a3-d7d2-4987-8731-16249567e334",
-      "name": "DDD",
-      "description": "nothing",
-      "element": "fire"
+      "id": "63abc0c8-29c0-46c9-a3cb-c32868903712",
+      "name": "2342",
+      "description": "fsdf",
+      "element": "water"
     }
   ],
   "filters": [
